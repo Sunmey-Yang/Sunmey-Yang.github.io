@@ -1,3 +1,6 @@
 # Sunmey-Yang.github.io
 技术、效率分享
-爱情
+## 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
