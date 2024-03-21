@@ -4,4 +4,6 @@ https://sunmey-yang.github.io/tags/index.html
 https://sunmey-yang.github.io/link/index.html
 https://sunmey-yang.github.io/2024/03/18/hello-world/
 https://sunmey-yang.github.io/
-https://sunmey-yang.github.io/tags/%E5%91%BD%E7%90%86%EF%BC%8C%E7%94%A8%E7%A5%9E%EF%BC%8C%E7%94%B2%E6%9C%A8/
+https://sunmey-yang.github.io/tags/%E5%91%BD%E7%90%86/
+https://sunmey-yang.github.io/tags/%E7%94%A8%E7%A5%9E/
+https://sunmey-yang.github.io/tags/%E7%94%B2%E6%9C%A8/
